@@ -3,7 +3,7 @@ import { GoogleGenAI } from "@google/genai";
 /*
 ⚠️ BẮT BUỘC:
 File .env phải có:
-VITE_GEMINI_API_KEY=xxxxxxxxxxxxxxxx
+VITE_GEMINI_API_KEY=AIzaSyD5pgTmUpZp5qiBxFZ3epXr3jnLHD5HO98
 */
 
 const ai = new GoogleGenAI({
